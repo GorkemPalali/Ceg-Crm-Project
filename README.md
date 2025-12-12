@@ -13,6 +13,24 @@ The project provides a complete structure with **role-based authorization**, **A
 * 📊 **Sales and Lead Tracking Modules**
 * 🤖 **FastAPI-based AI service for complaint resolution prediction**
 
+## Technology Stack
+
+### Backend
+- ASP.NET Core 8
+
+### Frontend
+- React 18
+- Vite 6
+
+### Database
+- PostgreSQL
+
+### AI Service
+- Python FastAPI
+
+### DevOps / Infrastructure
+- Docker
+
 ## 📥 Installation
 
 ### 1️⃣ Clone the Repository
